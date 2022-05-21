@@ -1,0 +1,5 @@
+project: blake2_simd
+target: fuzz_blake2b
+
+cmds:
+  - cmd: /fuzz_blake2b
